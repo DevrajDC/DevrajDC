@@ -65,9 +65,9 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p>
-  <img href="https://www.instagram.com/cuppycake_001" src="https://img.icons8.com/color/32/000000/instagram-new.png"/>
-  <img href="https://www.linkedin.com/in/devraj-chatribin/" src="https://img.icons8.com/color/32/000000/linkedin.png"/>
-  <img href="mailto:devrajchatribin9978@gmail.com" src="https://img.icons8.com/color/32/000000/gmail.png"/>
-  <img href="https://www.behance.net/devrajchatribin" src="https://img.icons8.com/color/32/000000/behance.png"/>
-  <img href="https://github.com/DevrajDC" src="https://img.icons8.com/color/32/000000/github.png"/>
+  <a href="https://www.instagram.com/cuppycake_001"><img  src="https://img.icons8.com/color/32/000000/instagram-new.png"/></a>
+  <a href="https://www.linkedin.com/in/devraj-chatribin/"><img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a>
+  <a href="mailto:devrajchatribin9978@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png"/></a>
+  <a href="https://www.behance.net/devrajchatribin"><img src="https://img.icons8.com/color/32/000000/behance.png"/></a>
+  <a href="https://github.com/DevrajDC"><img src="https://img.icons8.com/color/32/000000/github.png"/></a>
 </p>
