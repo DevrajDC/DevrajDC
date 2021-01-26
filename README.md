@@ -50,3 +50,6 @@ Web Developer || GSSoC'21@Organizer || UI/UX Designer || Front-end Developer @Gi
 - 📫 How to reach me: <a href="mailto:devrajchatribin9978@gmail.com">devrajchatribin9978@gmail.com</a>
 - 📄 Know about my experiences, my **Resume**: [here](https://drive.google.com/file/d/16Ct6T8brKjm_HzEa-ijV_PWI8eIGjrLx/view?usp=sharing)
 - ⚡ Fun fact: I am an **Artist**
+
+📊 Github Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=tokyonight" alt="DevrajDC | Stats" />
