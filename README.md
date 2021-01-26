@@ -36,7 +36,7 @@ Web Developer || GSSoC'21@Organizer || UI/UX Designer || Front-end Developer @Gi
 - ⚡ Fun fact: I am an **Artist**
 <br>
 
-🛠 Skills and Tools:\
+**🛠 Skills and Tools:** \
 <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -54,9 +54,10 @@ Web Developer || GSSoC'21@Organizer || UI/UX Designer || Front-end Developer @Gi
 ![Lightroom](https://img.shields.io/badge/-Lightroom-05122A?style=flat&logo=adobe-lightroom&logoColor=1572B6)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify&logoColor=00D4F1)&nbsp;
 <br>
-<p>📊 Github Stats</p>
+
+**📊 Github Statistics**
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=tokyonight" alt="DevrajDC | Stats" />
  
-Visitors Count:
+**Visitors Count:**
 <br>
 ![Visitor Count](https://profile-counter.glitch.me/{DevrajDC}/count.svg)
