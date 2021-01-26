@@ -26,7 +26,6 @@ Web Developer || GSSoC'21@Organizer || UI/UX Designer || Front-end Developer @Gi
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<!-- <img  height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/> -->
 
 - 🔭 I’m currently working on my Portfolio
 - 👯 I'm looking to collaborate on Open source project
@@ -37,7 +36,8 @@ Web Developer || GSSoC'21@Organizer || UI/UX Designer || Front-end Developer @Gi
 - ⚡ Fun fact: I am an **Artist**
 <br>
 
-🛠 Skills and Tools: <br>
+🛠 Skills and Tools:\
+<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
