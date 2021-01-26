@@ -53,3 +53,7 @@ Web Developer || GSSoC'21@Organizer || UI/UX Designer || Front-end Developer @Gi
 
 📊 Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=tokyonight" alt="DevrajDC | Stats" />
+ 
+Visitors Count:
+<br>
+![Visitor Count](https://profile-counter.glitch.me/{DevrajDC}/count.svg)
