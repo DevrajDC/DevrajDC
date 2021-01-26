@@ -55,8 +55,8 @@ Web Developer || GSSoC'21@Organizer || UI/UX Designer || Front-end Developer @Gi
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify&logoColor=00D4F1)&nbsp;
 <br>
 
-**📊 Github Statistics**
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=tokyonight" alt="DevrajDC | Stats" />
+### 📊 Github Statistics
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=algolia" alt="DevrajDC | Stats" />
  
 **Visitors Count:**
 <br>
