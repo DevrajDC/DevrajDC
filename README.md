@@ -1,5 +1,5 @@
 # [Devraj Chatribin](https://devraj-chatribin.netlify.app/)
-Web Developer || GSSoC'21@Organizer || UI/UX Designer || Front-end Developer @GirlScript Goa || Graphic Designer
+**Web Developer || GSSoC'21@Organizer || UI/UX Designer || Front-end Developer @GirlScript Goa || Graphic Designer**
 
 <p align="left">
 
