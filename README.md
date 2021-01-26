@@ -69,5 +69,5 @@
   <a href="https://www.linkedin.com/in/devraj-chatribin/"><img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a>
   <a href="mailto:devrajchatribin9978@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png"/></a>
   <a href="https://www.behance.net/devrajchatribin"><img src="https://img.icons8.com/color/32/000000/behance.png"/></a>
-  <a href="https://github.com/DevrajDC"><img src="https://img.icons8.com/color/32/000000/github.png"/></a>
+  <a href="https://github.com/DevrajDC"><img src="https://img.icons8.com/fluent/32/000000/github.png"/></a>
 </p>
