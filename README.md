@@ -64,4 +64,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/{DevrajDC}/count.svg)
 
 ### 🤝🏻 &nbsp;Connect with Me
-
+<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
