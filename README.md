@@ -70,16 +70,17 @@
 ![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 <br>
 
-### 📊 Github Statistics
+## 📊 Github Statistics
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=algolia" alt="DevrajDC | Stats" />
  
-**⚙️ Visitors Count:**
-<br>
+**👀 Profile Visitor's:**
+
 ![Visitor Count](https://profile-counter.glitch.me/{DevrajDC}/count.svg)
 
-### 🤝🏻 &nbsp;Connect with Me
-<p align="left">
+## 🤝🏻 Connect with Me
 
+<p align="left">
 <a href="mailto:devrajchatribin9978@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
