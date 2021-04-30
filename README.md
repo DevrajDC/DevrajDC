@@ -38,8 +38,8 @@
 - ⚡ Fun fact: I am an **Artist**
 <br>
 
-**📚 My Skills:** \
-<br>
+## 📚 My Skills
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevrajDC&layout=compact&show_icons=true&theme=algolia)](https://github.com/DevrajDC)
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
