@@ -1,4 +1,5 @@
-![Devraj Chatribin](https://user-images.githubusercontent.com/65373279/116736137-18a9a580-aa0d-11eb-9aee-c2284f28f7c3.png)
+![Devraj Chatribin - Banner](https://user-images.githubusercontent.com/65373279/118028011-34ec0180-b380-11eb-80ce-58f1e13a1292.png)
+
 
 # [⚡Devraj Chatribin⚡](https://devraj-chatribin.netlify.app/)
 **Web Developer || GSSoC'21@Organizer || UI/UX Designer || Front-end Developer @GirlScript Goa || Graphic Designer**
