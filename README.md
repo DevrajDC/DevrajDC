@@ -2,7 +2,7 @@
 
 
 # [⚡Devraj Chatribin⚡](https://devraj-chatribin.netlify.app/)
-**Web Developer || GSSoC'21@Organizer || UI/UX Designer || Front-end Developer @GirlScript Goa || Graphic Designer**
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Frontend+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mentor;I'm+a+Graphic+Designer)
 
 <p align="left">
 
