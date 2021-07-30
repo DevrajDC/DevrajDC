@@ -1,7 +1,7 @@
 ![Devraj Chatribin - Banner](https://user-images.githubusercontent.com/65373279/118028011-34ec0180-b380-11eb-80ce-58f1e13a1292.png)
 
 
-# [⚡Devraj Chatribin⚡](https://devraj-chatribin.netlify.app/)
+# [⚡Devraj Chatribin⚡](https://devrajchatribin.co/)
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Frontend+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mentor;I'm+a+Graphic+Designer)
 
 <p align="left">
