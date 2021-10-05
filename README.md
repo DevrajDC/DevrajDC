@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on my Portfolio
 - 👯 I'm looking to collaborate on Open source project
-- 👨‍💻 All of my projects are available at https://devraj-chatribin.netlify.app/
+- 👨‍💻 All of my projects are available at https://devrajchatribin.co/
 - 💬 Ask me about **Web Development, UI/UX Design, Graphic Design.**
 - 📫 How to reach me: <a href="mailto:devrajchatribin9978@gmail.com">devrajchatribin9978@gmail.com</a>
 - 📄 Know about my experiences, my **Resume**: [here](https://drive.google.com/file/d/16Ct6T8brKjm_HzEa-ijV_PWI8eIGjrLx/view?usp=sharing)
