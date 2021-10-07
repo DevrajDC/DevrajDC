@@ -74,10 +74,6 @@
 ## 📊 Github Statistics
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=algolia" alt="DevrajDC | Stats" />
- 
-**👀 Profile Visitor's:**
-
-![Visitor Count](https://profile-counter.glitch.me/{DevrajDC}/count.svg)
 
 ## 🤝🏻 Connect with Me
 
