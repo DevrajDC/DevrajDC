@@ -21,7 +21,7 @@
 <a href="https://dev.to/devrajdc" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Dev.to-black.svg?&style=for-the-badge&logo=Dev.to&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/cuppycake_001" style="text-decoration:none">
+<a href="https://www.instagram.com/designfordev" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <br />
