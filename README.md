@@ -34,6 +34,7 @@
 
 
 <!---------------------------- About Me ----------------------------->
+
 <h2> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -44,9 +45,9 @@
 - 📫 How to reach me: <a href="mailto:devrajchatribin9978@gmail.com">devrajchatribin9978@gmail.com</a>
 - 📄 Know about my experiences, my **Resume**: [here](https://drive.google.com/file/d/16Ct6T8brKjm_HzEa-ijV_PWI8eIGjrLx/view?usp=sharing)
 - ⚡ Fun fact: I am an **Artist**
+
 <br>
 <hr />
-
 
 <!---------------------------- My Skills Section ----------------------------->
 ## 📚 My Skills
