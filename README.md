@@ -93,7 +93,7 @@
 <hr />
 
 
-<!----------------------------- Open Source Projects -------------------------->
+<!----------------------------- Open Source Projects --------------------------->
 ## 📘 Some of my Repositories:
 
 <p align="left">
