@@ -1,11 +1,13 @@
+<!---------------------------- Banner Image ----------------------------->
 ![Devraj Chatribin - Banner](https://user-images.githubusercontent.com/65373279/118028011-34ec0180-b380-11eb-80ce-58f1e13a1292.png)
 
-
+<!---------------------------- Typewriter animation ----------------------------->
 # [⚡Devraj Chatribin⚡](https://devrajchatribin.co/)
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Frontend+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mentor;I'm+a+Graphic+Designer)
 
-<p align="left">
 
+<!---------------------------- Social Links ----------------------------->
+<p align="left">
 <a href="mailto:devrajchatribin9978@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -27,6 +29,8 @@
 <br />
 <hr />
 
+
+<!---------------------------- About Me ----------------------------->
 <h2> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -38,7 +42,10 @@
 - 📄 Know about my experiences, my **Resume**: [here](https://drive.google.com/file/d/16Ct6T8brKjm_HzEa-ijV_PWI8eIGjrLx/view?usp=sharing)
 - ⚡ Fun fact: I am an **Artist**
 <br>
+<hr />
 
+
+<!---------------------------- My Skills Section ----------------------------->
 ## 📚 My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevrajDC&layout=compact&show_icons=true&theme=react&bg_color=20232a&hide_border=true)](https://github.com/DevrajDC)
@@ -69,6 +76,7 @@
 ![Skill](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br>
+<hr />
 
 
 <!---------------------------- Github Statistics ----------------------------->
@@ -82,20 +90,21 @@
 
 <!---------------------------- Contribution Graph ----------------------------->
 <img src="https://activity-graph.herokuapp.com/graph?username=DevrajDC&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="DevrajDC | Stats"/>
-
+<hr />
 
 
 <!----------------------------- Open Source Projects -------------------------->
 ## 📘 Some of my Repositories:
 
 <p align="left">
-  <a href="https://github.com/DevrajDC/Devraj-Chatribin"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=Devraj-Chatribin&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=61D9FA&hide_border=true&show_icons=false" alt="Portfolio Website"></a>
-  <a href="https://github.com/DevrajDC/resourceshub"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=resourceshub&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=61D9FA&hide_border=true&show_icons=false" alt="resourceshub"></a>
-  <a href="https://github.com/Design-and-Code/Design-and-Code"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Design-and-Code&repo=Design-and-Code&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=61D9FA&hide_border=true&show_icons=false" alt="Portfolio Website"></a>
+  <a href="https://github.com/DevrajDC/Devraj-Chatribin"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=Devraj-Chatribin&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=61D9FA&hide_border=true&show_icons=false" alt="Portfolio Website"></a>
+  <a href="https://github.com/DevrajDC/resourceshub"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=resourceshub&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=61D9FA&hide_border=true&show_icons=false" alt="resourceshub"></a>
+  <a href="https://github.com/Design-and-Code/Design-and-Code"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Design-and-Code&repo=Design-and-Code&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=61D9FA&hide_border=true&show_icons=false" alt="Portfolio Website"></a>
 </p>
 <p align="left">
   <a href="https://github.com/DevrajDC?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+<hr />
 
 
 <!--------------------------------- Social Links --------------------------------->
