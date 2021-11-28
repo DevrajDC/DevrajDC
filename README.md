@@ -41,7 +41,7 @@
 
 ## 📚 My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevrajDC&layout=compact&show_icons=true&theme=algolia)](https://github.com/DevrajDC)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevrajDC&layout=compact&show_icons=true&theme=react&bg_color=20232a&hide_border=true)](https://github.com/DevrajDC)
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,10 +70,35 @@
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br>
 
+
+<!---------------------------- Github Statistics ----------------------------->
 ## 📊 Github Statistics
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=algolia" alt="DevrajDC | Stats" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=react&bg_color=20232a&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevrajDC&theme=react&bg_color=20232a&hide_border=true" />
+</p>
 
+
+<!---------------------------- Contribution Graph ----------------------------->
+<img src="https://activity-graph.herokuapp.com/graph?username=DevrajDC&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="DevrajDC | Stats"/>
+
+
+
+<!----------------------------- Open Source Projects -------------------------->
+## 📘 Some of my Repositories:
+
+<p align="left">
+  <a href="https://github.com/DevrajDC/Devraj-Chatribin"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=Devraj-Chatribin&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=61D9FA&hide_border=true&show_icons=false" alt="Portfolio Website"></a>
+  <a href="https://github.com/DevrajDC/resourceshub"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=resourceshub&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=61D9FA&hide_border=true&show_icons=false" alt="resourceshub"></a>
+  <a href="https://github.com/Design-and-Code/Design-and-Code"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Design-and-Code&repo=Design-and-Code&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=61D9FA&hide_border=true&show_icons=false" alt="Portfolio Website"></a>
+</p>
+<p align="left">
+  <a href="https://github.com/DevrajDC?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
+
+<!--------------------------------- Social Links --------------------------------->
 ## 🤝🏻 Connect with Me
 
 <p align="left">
