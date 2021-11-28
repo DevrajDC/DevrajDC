@@ -74,9 +74,9 @@
 <!---------------------------- Github Statistics ----------------------------->
 ## 📊 Github Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=react&bg_color=20232a&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevrajDC&theme=react&bg_color=20232a&hide_border=true" />
+<p align="left">
+  <img width="480" src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=react&bg_color=20232a&hide_border=true" />
+  <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=DevrajDC&theme=react&bg_color=20232a&hide_border=true" />
 </p>
 
 
