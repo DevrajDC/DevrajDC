@@ -98,27 +98,14 @@
 
 
 <!----------------------------- Open Source Projects --------------------------->
-## 📘 Some of my Repositories:
-
-<p align="left">
-  <a href="https://github.com/DevrajDC/Devraj-Chatribin"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=Devraj-Chatribin&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=61D9FA&hide_border=true&show_icons=false" alt="Portfolio Website"></a>
-  <a href="https://github.com/DevrajDC/resourceshub"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=resourceshub&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=61D9FA&hide_border=true&show_icons=false" alt="resourceshub"></a>
-  <a href="https://github.com/Design-and-Code/Design-and-Code"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Design-and-Code&repo=Design-and-Code&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=61D9FA&hide_border=true&show_icons=false" alt="Portfolio Website"></a>
-</p>
-<p align="left">
-  <a href="https://github.com/DevrajDC?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-<hr />
-
 ## 📘 My top open source projects
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/DevrajDC/Devraj-Chatribin"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=Devraj-Chatribin&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/DevrajDC/resourceshub"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=resourceshub&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Design-and-Code/Design-and-Code"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Design-and-Code&repo=Design-and-Code&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/DevrajDC/Devraj-Chatribin"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=Devraj-Chatribin&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DevrajDC/resourceshub"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=resourceshub&hide_border=true&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Design-and-Code/Design-and-Code"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Design-and-Code&repo=Design-and-Code&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
+<hr />
 
 
 
