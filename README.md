@@ -35,8 +35,9 @@
 
 <!---------------------------- About Me ----------------------------->
 
-<h2> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
+## Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I’m currently working on my Portfolio
 - 👯 I'm looking to collaborate on Open source project
@@ -46,7 +47,6 @@
 - 📄 Know about my experiences, my **Resume**: [here](https://drive.google.com/file/d/16Ct6T8brKjm_HzEa-ijV_PWI8eIGjrLx/view?usp=sharing)
 - ⚡ Fun fact: I am an **Artist**
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 <br>
 <hr />
 
