@@ -46,8 +46,10 @@
 - 📄 Know about my experiences, my **Resume**: [here](https://drive.google.com/file/d/16Ct6T8brKjm_HzEa-ijV_PWI8eIGjrLx/view?usp=sharing)
 - ⚡ Fun fact: I am an **Artist**
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 <br>
 <hr />
+
 
 <!---------------------------- My Skills Section ----------------------------->
 ## 📚 My Skills
