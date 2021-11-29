@@ -103,9 +103,9 @@
 ## 📘 My top open source projects
 
 <p align="left">
-  <a href="https://github.com/DevrajDC/Devraj-Chatribin"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=Devraj-Chatribin&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/DevrajDC/resourceshub"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=resourceshub&hide_border=true&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Design-and-Code/Design-and-Code"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Design-and-Code&repo=Design-and-Code&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/DevrajDC/Devraj-Chatribin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=Devraj-Chatribin&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DevrajDC/resourceshub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=resourceshub&hide_border=true&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Design-and-Code/Design-and-Code"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Design-and-Code&repo=Design-and-Code&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 <p align="left">
   <a href="https://github.com/DevrajDC?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
