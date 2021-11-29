@@ -102,7 +102,7 @@
 
 
 <!----------------------------- Open Source Projects --------------------------->
-## 📘 My top open source projects
+## 📘 Some of my Repositories
 
 <p align="left">
   <a href="https://github.com/DevrajDC/Devraj-Chatribin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=Devraj-Chatribin&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
