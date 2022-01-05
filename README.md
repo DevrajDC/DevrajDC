@@ -1,6 +1,6 @@
 <!---------------------------- Banner Image ----------------------------->
-<!-- ![Devraj Chatribin - Banner](https://user-images.githubusercontent.com/65373279/118028011-34ec0180-b380-11eb-80ce-58f1e13a1292.png) -->
-![Devraj Chatribin - Banners (2)](https://user-images.githubusercontent.com/65373279/143792778-85381aa3-ad58-4ef8-a9d6-f4d476e8a9a9.png)
+![Devraj Chatribin - Banner](https://user-images.githubusercontent.com/65373279/118028011-34ec0180-b380-11eb-80ce-58f1e13a1292.png)
+<!-- ![Devraj Chatribin - Banners (2)](https://user-images.githubusercontent.com/65373279/143792778-85381aa3-ad58-4ef8-a9d6-f4d476e8a9a9.png) -->
 
 
 <!---------------------------- Typewriter animation ----------------------------->
@@ -143,6 +143,12 @@
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 </p>
+
+<!---------------------------------  Snake Animation  ------------------------>
+<!-- ## Watch a 🐍 eating my contribution graph
+<p align="center">
+  <img src="https://github.com/DevrajDC/DevrajDC/blob/output/github-contribution-grid-snake.svg" alt="snake" ></center>
+</p> -->
 
 <!---------------------------------  Marquee Animation  ------------------------>
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
