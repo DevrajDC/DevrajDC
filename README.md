@@ -28,7 +28,7 @@
 <a href="https://www.instagram.com/designfordev" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://discord.gg/druweDMn3s" style="text-decoration:none">
+<a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <br />
@@ -91,6 +91,8 @@
 <!---------------------------- Github Statistics ----------------------------->
 ## 📊 Github Statistics
 
+<!-- <p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevrajDC&theme=github_dark" alt="Devraj Contributions"/></p> -->
+
 <p align="left">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=react&bg_color=20232a&hide_border=true" />
   <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=DevrajDC&theme=react&bg_color=20232a&hide_border=true" />
@@ -106,7 +108,7 @@
 ## 📘 Some of my Repositories
 
 <p align="left">
-  <a href="https://github.com/DevrajDC/Devraj-Chatribin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=Devraj-Chatribin&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DevrajDC/Devraj-Chatribin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=myportfolio&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/DevrajDC/resourceshub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=resourceshub&hide_border=true&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/Design-and-Code/Design-and-Code"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Design-and-Code&repo=Design-and-Code&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
@@ -139,7 +141,7 @@
 <a href="https://www.instagram.com/designfordev" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://discord.gg/druweDMn3s" style="text-decoration:none">
+<a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 </p>
