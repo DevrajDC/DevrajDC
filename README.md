@@ -145,6 +145,7 @@
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 </p>
+<hr />
 
 <!---------------------------------  Snake Animation  ------------------------>
 ## Watch a 🐍 eating my contribution graph
