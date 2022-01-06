@@ -1,6 +1,5 @@
 <!---------------------------- Banner Image ----------------------------->
 ![Devraj Chatribin - Banner](https://user-images.githubusercontent.com/65373279/118028011-34ec0180-b380-11eb-80ce-58f1e13a1292.png)
-<!-- ![Devraj Chatribin - Banners (2)](https://user-images.githubusercontent.com/65373279/143792778-85381aa3-ad58-4ef8-a9d6-f4d476e8a9a9.png) -->
 
 
 <!---------------------------- Typewriter animation ----------------------------->
