@@ -6,31 +6,6 @@
 # [⚡Devraj Chatribin⚡](https://devrajchatribin.co/)
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Frontend+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mentor;I'm+a+Graphic+Designer)
 
-
-<!---------------------------- Social Links ----------------------------->
-<p align="left">
-<a href="mailto:devrajchatribin9978@gmail.com" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/devraj-chatribin/" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/DevrajDC" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.behance.net/devrajchatribin" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Behance-darkblue.svg?&style=for-the-badge&logo=Behance&logoColor=white" />
-</a>
-<a href="https://dev.to/devrajdc" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Dev.to-black.svg?&style=for-the-badge&logo=Dev.to&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/designfordev" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<br />
 <hr />
 
 
