@@ -3,7 +3,7 @@
 
 
 <!---------------------------- Typewriter animation ----------------------------->
-# [⚡Devraj Chatribin⚡](https://devrajchatribin.co/)
+# [⚡Devraj Chatribin⚡](https://devrajchatribin.com/)
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Frontend+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mentor;I'm+a+Graphic+Designer)
 
 <hr />
@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on my Portfolio
 - 👯 I'm looking to collaborate on Open source project
-- 👨‍💻 All of my projects are available at https://devrajchatribin.co/
+- 👨‍💻 All of my projects are available at https://devrajchatribin.com/
 - 💬 Ask me about **Web Development, UI/UX Design, Graphic Design.**
 - 📫 How to reach me: <a href="mailto:devrajchatribin9978@gmail.com">devrajchatribin9978@gmail.com</a>
 - 📄 Know about my experiences, my **Resume**: [here](https://drive.google.com/file/d/16Ct6T8brKjm_HzEa-ijV_PWI8eIGjrLx/view?usp=sharing)
