@@ -121,11 +121,5 @@
 </p>
 <hr />
 
-<!---------------------------------  Snake Animation  ------------------------>
-## Watch a 🐍 eating my contribution graph
-<p align="center" width="100%">
-  <img src="https://github.com/DevrajDC/DevrajDC/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"></center>
-</p>
-
 <!---------------------------------  Marquee Animation  ------------------------>
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
