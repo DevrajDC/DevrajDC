@@ -3,10 +3,8 @@
 
 
 <!---------------------------- Typewriter animation ----------------------------->
-# [⚡Devraj Chatribin⚡](https://devrajchatribin.com/)
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Frontend+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mentor;I'm+a+Graphic+Designer)
-
-<hr />
+# Hello👋, It's me Devraj!😎
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Software+Engineer;I'm+a+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mentor;I'm+a+Graphic+Designer)
 
 
 <!---------------------------- About Me ----------------------------->
@@ -14,22 +12,21 @@
 <!-- <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
 
-## Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
-
-- 🔭 I’m currently working on my Portfolio
-- 👯 I'm looking to collaborate on Open source project
-- 👨‍💻 All of my projects are available at https://devrajchatribin.com/
+- 🔭 Currently crafting my Portfolio with passion and precision.
+- 👯 Building [Design & Code](https://discord.gg/gM3bG4rAU5) Community.
+- 👨‍💻 Explore my diverse projects at https://devrajchatribin.com/.
 - 💬 Ask me about **Web Development, UI/UX Design, Graphic Design.**
-- 📫 How to reach me: <a href="mailto:devrajchatribin9978@gmail.com">devrajchatribin9978@gmail.com</a>
-- 📄 Know about my experiences, my **Resume**: [here](https://drive.google.com/file/d/16Ct6T8brKjm_HzEa-ijV_PWI8eIGjrLx/view?usp=sharing)
-- ⚡ Fun fact: I am an **Artist**
+- 📫 Reach out to me at: <a href="mailto:devrajchatribin9978@gmail.com">devrajchatribin9978@gmail.com</a>
+- 📄 Dive into my experiences with my **Resume**: [here](https://docs.google.com/document/d/1Gt9kTDOgqljUXPw6nbJGGiKxbST5IjEY)
+- ⚡ Fun fact: Apart from coding, I'm also an accomplished **Artist**!
 
+<br>
 <br>
 <hr />
 
 
 <!---------------------------- My Skills Section ----------------------------->
-## 📚 My Skills
+## 📚 Tech Backpack
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevrajDC&layout=compact&show_icons=true&theme=react&bg_color=20232a&hide_border=true)](https://github.com/DevrajDC)
 
