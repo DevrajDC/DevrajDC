@@ -24,7 +24,7 @@
 
 
 <!---------------------------- My Skills Section ----------------------------->
-## 🧑🏻‍💻 Tech Backpack
+## 💻 Tech Backpack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ts,nextjs,nodejs,expressjs,sass,tailwind,materialui,bootstrap,redux,vite,figma,mongodb,postgres,mysql,docker,cypress,firebase,git,github,gitlab,postman,vscode,vercel,netlify" align="center">
 <br>
@@ -58,7 +58,7 @@
 
 
 <!--------------------------------- Social Links --------------------------------->
-## 🫱🏻‍🫲🏼 Connect with Me
+## 🤝🏻 Connect with Me
 
 <p align="left">
 <a href="mailto:devrajchatribin9978@gmail.com" style="text-decoration:none">
