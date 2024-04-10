@@ -36,7 +36,7 @@
 
 <p align="left">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=react&bg_color=20232a&hide_border=true" />
-  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=DevrajDC&theme=react&bg_color=20232a&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevrajDC&theme=react&hide_border=true&border_radius=6" alt="GitHub Streak" />
 </p>
 <br>
 <br>
