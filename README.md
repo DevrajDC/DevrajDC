@@ -26,7 +26,7 @@
 <!---------------------------- My Skills Section ----------------------------->
 ## 💻 Tech Backpack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ts,nextjs,nodejs,expressjs,sass,tailwind,materialui,bootstrap,redux,vite,figma,mongodb,postgres,mysql,docker,cypress,firebase,git,github,gitlab,postman,vscode,vercel,netlify" align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ts,nextjs,nodejs,expressjs,sass,tailwind,threejs,materialui,bootstrap,redux,figma,mongodb,appwrite,postgres,mysql,docker,cypress,firebase,git,github,gitlab,postman,vscode,eclipse,vercel,netlify,jenkins" align="center">
 <br>
 <br>
 
