@@ -28,7 +28,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ts,nextjs,nodejs,expressjs,sass,tailwind,threejs,materialui,bootstrap,redux,figma,mongodb,appwrite,postgres,mysql,docker,cypress,firebase,git,github,gitlab,postman,vscode,eclipse,vercel,netlify,jenkins" align="center">
 <br>
-<br>
 
 
 <!----------------------------- Open Source Projects --------------------------->
